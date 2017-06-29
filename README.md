@@ -1,7 +1,7 @@
 # Cast Plugins
 A central repository for Cast plugins
 
-##### When making a pull request, make sure that your plugin page follows the syntax of the [template file](https://github.com/CastProject/Plugins/blob/master/Template.md). If it doesn't, your pull request will be rejected.
+> When making a pull request, make sure that your plugin page follows the syntax of the [template file](https://github.com/CastProject/Plugins/blob/master/Template.md). If it doesn't, your pull request will be rejected.
 
 ## How do I get my plugin on the Cast repo?
 
