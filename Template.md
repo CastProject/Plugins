@@ -3,7 +3,7 @@
 ## Plugin Name
 ### Category
 
-###### [Link to **public** git repository](#)
+###### [Repository](#)
 
 #### Description
 TODO: Description
@@ -16,6 +16,9 @@ TODO: Dependencies (if you don't have any dependencies, remove this)
 
 #### Commands
 TODO: A list of commands and their usages (if you don't have any commands, remove this)
+
+#### Download Links
+TODO: Any related download links
 
 #### FAQ
 TODO: Frequently Asked Questions (if you don't have any FAQ, remove this)
