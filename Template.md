@@ -3,6 +3,8 @@
 ## Plugin Name
 ### Category
 
+###### [Link to **public** git repository](#)
+
 #### Description
 TODO: Description
 
