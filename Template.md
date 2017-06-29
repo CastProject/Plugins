@@ -1,7 +1,7 @@
 ###### By removing this text, I acknowledge that my plugin is well-tested, secure and safe. Any malicious code will result in my permanent ban from Cast and all of it's services.
 
-### Plugin Name
-## Category
+## Plugin Name
+### Category
 
 #### Description
 TODO: Description
